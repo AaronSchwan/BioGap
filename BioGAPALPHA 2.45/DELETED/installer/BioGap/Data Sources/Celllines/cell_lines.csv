@@ -1,0 +1,34 @@
+HepG21,'HepG2 cells  control  rep1', 'RNA', 'Cultured HepG2 cells   ATCC# HB-8065', 'Expression profiling from HepG2 cells
+', 'https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM720616', 'https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?view=data&acc=GSM720616&id=2037&db=GeoDb_blob60', 'Eugene L'
+HepG22,'HepG2 cells  control  rep2', 'RNA', 'Cultured HepG2 cells   ATCC# HB-8065', 'Expression profiling from HepG2 cells
+', 'https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM720618', 'https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?view=data&acc=GSM720618&id=2039&db=GeoDb_blob60', 'Eugene L'
+A5491,'A549_Control_rep2', 'RNA', 'A549 human adenocarcinoma cell line  control', 'n/a
+', 'https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM147890', 'https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?view=data&acc=GSM147890&id=14283&db=GeoDb_blob09', 'Gabriela M.'
+A5492,'A549_Control_rep3', 'RNA', 'A549 human adenocarcinoma cell line  control ', 'n/a
+', 'https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM147891', 'https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?view=data&acc=GSM147891&id=14284&db=GeoDb_blob09', 'Gabriela M.'
+MMP-81,'08SE1179', 'RNA', 'MMP-8 wild type control mouse', 'Mouse without arthritis
+', 'https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM567072', 'https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?view=data&acc=GSM567072&id=12527&db=GeoDb_blob47', 'Carmen Conde'
+MMP-82,'08SE1180', 'RNA', 'MMP-8 wild type control mouse', 'Mouse without arthritis
+', 'https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM567073', 'https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?view=data&acc=GSM567073&id=12528&db=GeoDb_blob47', 'Carmen Conde'
+MMP-83,'08SE1182', 'RNA', 'MMP-8 KO control mouse', 'Mouse without arthritis
+', 'https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM567075', 'https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?view=data&acc=GSM567075&id=12530&db=GeoDb_blob47', 'Carmen Conde'
+MMP-84,'08SE1183', 'RNA', 'MMP-8 KO control mouse', 'Mouse without arthritis
+', 'https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM567076', 'https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?view=data&acc=GSM567076&id=12531&db=GeoDb_blob47', 'Carmen Conde'
+PC-31,'Nr2_pre221', 'RNA', 'PC-3 cell  pre mir-221', 'Gene expression data from pre-mir-221 transfected PC-3 cells
+', 'https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM1110880', 'https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?view=data&acc=GSM1110880&id=41197&db=GeoDb_blob95', 'Susanne Elma'
+PC-32,'Nr3_ctrl', 'RNA', 'PC-3 cell  control mir', 'Gene expression data from control miR transfected PC-3 cells
+', 'https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM1110881', 'https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?view=data&acc=GSM1110881&id=41198&db=GeoDb_blob95', 'Susanne Elma'
+PC-33,'Nr4_ctrl', 'RNA', 'PC-3 cell  control mir', 'Gene expression data from control miR transfected PC-3 cells
+', 'https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM1110882', 'https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?view=data&acc=GSM1110882&id=41199&db=GeoDb_blob95', 'Susanne Elma'
+CL1-51,'CL1-5  biological rep2', 'RNA', 'Human lung adenocarcinoma cell line CL1-5 vector control', 'The mRNA profiles from vector control transfectants and CLDN1 overexpressed transfectants were quantitatively determined.
+', 'https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM260534', 'https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?view=data&acc=GSM260534&id=38608&db=GeoDb_blob21', 'Sung-Liang Yu'
+CL1-52,'CLDN1 overexpressed CL1-5  biological rep1', 'RNA', 'Human lung adenocarcinoma cell line CL1-5 CLDN1-transfected', 'The mRNA profiles from vector control transfectants and CLDN1 overexpressed transfectants were quantitatively determined.
+', 'https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM260535', 'https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?view=data&acc=GSM260535&id=38609&db=GeoDb_blob21', 'Sung-Liang Yu'
+CL1-53,'CLDN1 overexpressed CL1-5  biological rep2', 'RNA', 'Human lung adenocarcinoma cell line CL1-5 CLDN1-transfected', 'The mRNA profiles from vector control transfectants and CLDN1 overexpressed transfectants were quantitatively determined.
+', 'https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM260536', 'https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?view=data&acc=GSM260536&id=38610&db=GeoDb_blob21', 'Sung-Liang Yu'
+A4311,'A431 PR 1', 'RNA', 'epidermoid carcinoma  cell line', 'PTEN RNAi
+', 'https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM183434', 'https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?view=data&acc=GSM183434&id=20294&db=GeoDb_blob11', 'Igor Vivanco'
+A4312,'A431 PR 2', 'RNA', 'epidermoid carcinoma  cell line', 'PTEN RNAi
+', 'https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM183435', 'https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?view=data&acc=GSM183435&id=20295&db=GeoDb_blob11', 'Igor Vivanco'
+A4313,'A431 WT 2', 'RNA', 'epidermoid carcinoma  cell line', 'control
+', 'https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM183433', 'https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?view=data&acc=GSM183433&id=20293&db=GeoDb_blob11', 'Igor Vivanco'
